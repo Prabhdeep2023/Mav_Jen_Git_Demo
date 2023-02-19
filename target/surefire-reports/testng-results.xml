@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-02-10T18:02:47 NZDT" name="Suite" finished-at="2023-02-10T18:02:56 NZDT" duration-ms="8991">
+  <suite started-at="2023-02-20T11:30:43 NZDT" name="Suite" finished-at="2023-02-20T11:30:52 NZDT" duration-ms="9222">
     <groups>
     </groups>
-    <test started-at="2023-02-10T18:02:47 NZDT" name="Test" finished-at="2023-02-10T18:02:56 NZDT" duration-ms="8991">
+    <test started-at="2023-02-20T11:30:43 NZDT" name="Test" finished-at="2023-02-20T11:30:52 NZDT" duration-ms="9222">
       <class name="mavenforjenkins.UITest">
-        <test-method signature="startBrowser(java.lang.String)[pri:0, instance:mavenforjenkins.UITest@6295d394]" started-at="2023-02-10T18:02:47 NZDT" name="startBrowser" finished-at="2023-02-10T18:02:56 NZDT" duration-ms="8945" status="PASS">
+        <test-method signature="startBrowser(java.lang.String)[pri:0, instance:mavenforjenkins.UITest@6295d394]" started-at="2023-02-20T11:30:43 NZDT" name="startBrowser" finished-at="2023-02-20T11:30:52 NZDT" duration-ms="9175" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[Chrome]]>
+                <![CDATA[Edge]]>
               </value>
             </param>
           </params>
